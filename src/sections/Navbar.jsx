@@ -5,7 +5,7 @@ function Navigation() {
   return (
     <ul className="nav-ul">
       <li className="nav-li">
-        <a href="https://github.com/Shashank-Script" className="nav-link">
+        <a href="https://drive.google.com/file/d/1kmpP36bkBZNk9IPmRDAKaZkNd2ojdKDZ/view?usp=drive_link" className="nav-link">
           Resume
         </a>
       </li>
